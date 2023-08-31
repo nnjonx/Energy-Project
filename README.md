@@ -6,3 +6,5 @@ could connect to a database).
 
 The user can create, update, delete, and view the data. They then can access a database that has the customer's meter readings, payments, bills, and tariff details. 
 The user can also create an invoice for the customer.
+The rar file contains the java code of the program and a connection example to a potential database. Feel free to ignore the connection file if you're not interested
+in connecting the program to a database (the code is not coded to be compatible with a database but it is possible to make it compatible)
